@@ -25,11 +25,16 @@ background-color: antiquewhite;
     background-color: #ffffff;
 }
 
+
 .ft-style {
-    background-color: rgba(199, 195, 186, 0.2);
+    background-color: rgb(122, 120, 114);
 }
 
-.jumbotrone {
-    background-color: transparent;
+h1 { color: rgb(187, 49, 49);
+
+}
+
+ p { color: rgb(78, 78, 78);
+
 }
 
