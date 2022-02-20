@@ -40,10 +40,10 @@ https://balsamiq.cloud/seakuqu/p81nqeg
 * Navbar functionality
 ## Deployment
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
-1. In the GitHub repository, navigate to the Settings tab.
-2. From the source section drop-down menu, select the Master Branch.
-3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-*The live link can be found here - https://magz-dev.github.io/gym-project/
+ 1. In the GitHub repository, navigate to the Settings tab.
+ 2. From the source section drop-down menu, select the Master Branch.
+ 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* The live link can be found here - https://magz-dev.github.io/gym-project/
 ## Credits
 ### Style
 * MDBootstrap
