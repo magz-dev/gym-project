@@ -1,5 +1,5 @@
 # MaX Fitness
-This is the main marketing website for MaX Fitness Centre. It has been designed to be responsible and accessible on a range of devices, making it easy to navigate for memebers.
+This is the main marketing website for MaX Fitness centre. It has been designed to be responsible and accessible on a range of devices, making it easy to navigate for memebers.
 ![Screenshot 2022-02-20 01 39 13](https://user-images.githubusercontent.com/97630146/154838210-f48aeb39-3cf4-4d7e-b9e0-d91cee0418a8.png)
 ## User Experience
 ### First Time Visitor Goals 
