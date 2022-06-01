@@ -1,10 +1,9 @@
 body {
-    
-    font-family: 'Poppins', sans-serif;
-background-color: antiquewhite;
-
+     font-family: 'Poppins', sans-serif;
+     background-color: antiquewhite;
 }
 
+/* BACKGROUND */
 .welcome-page { 
 
     height: 100vh; 
@@ -18,9 +17,9 @@ background-color: antiquewhite;
     align-items: center; 
     justify-content: center; 
     position: relative;
-    
-    } 
+ } 
 
+ /*FOOTER*/
 .footer-style {
     background-color: #ffffff;
 }
@@ -30,19 +29,25 @@ background-color: antiquewhite;
     background-color: rgb(122, 120, 114);
 }
 
-h2 { color: rgb(212, 110, 70);
-
+/* TEXT COLOUR*/
+h3 { 
+    color: rgb(212, 110, 70);
 }
 
- p, h5 { color: rgb(78, 78, 78);
+ p, h5 { 
+    color: rgb(78, 78, 78);
+}
+ 
 
+h1 {
+    color: darkcyan;
 }
 
-
-h1 {color: darkcyan;
-}
-
-.style {margin-top: 15px;
+/* TEXT POSITION*/
+.style { 
+    margin-top: 15px;
     margin-bottom: 10px;
 }
+
+
 
