@@ -34,7 +34,7 @@ h3 {
     color: rgb(212, 110, 70);
 }
 
- p, h5 { 
+ p, h6, h5, li { 
     color: rgb(78, 78, 78);
 }
  
@@ -42,6 +42,8 @@ h3 {
 h1 {
     color: darkcyan;
 }
+
+
 
 /* TEXT POSITION*/
 .style { 
