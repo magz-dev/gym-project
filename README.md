@@ -21,7 +21,7 @@ b. As a First Time Visitor, I want to be able to easily navigate throughout all 
 
 c. As a First Time Visitor, I want to see a list of sport activities I can attend and see opening hours.
 
-### Returning Visitor Goals
+#### Returning Visitor Goals
 
 a. As a Returning Visitor, I want to find information about location.
 
@@ -29,7 +29,7 @@ b. As a Returning Visitor, I want to find social media links.
 
 c. As a Returning Visitor, I want to find pictures of equipment.
 
-### Frequent User Goals
+#### Frequent User Goals
 
 a. As a Frequent User, I want to check to see if there are any newly added classes and memberships.
 
@@ -62,7 +62,7 @@ c. As a Frequent User, I want to create an account where I can manage my memeber
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-* [CSS Validator results](https://jigsaw.w3.org/css-validator/validator)
+* [CSS Validator results](https://jigsaw.w3.org/css-validator/)
 
 
  ![Screenshot 2022-06-02 20 54 14](https://user-images.githubusercontent.com/97630146/171753170-366c617d-52f0-43c0-bd4d-5698df6fd44d.png)
