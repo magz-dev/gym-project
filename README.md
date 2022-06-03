@@ -1,13 +1,13 @@
-# MaX Fitness Centre
+# MaX Fitness
 
-This is a marketing website for MaX Fitness Centre. It has been designed to motivate and encourage potential members to start their fitness journey and pay for a membership. 
+This is a marketing website for MaX Fitness centre. It has been designed to motivate and encourage potential members to start their fitness journey and pay for a membership. 
 
 
 
 ![Screenshot 2022-06-02 20 39 05](https://user-images.githubusercontent.com/97630146/171735693-0c0b4c10-a3e4-4ba2-8ac5-1c18a0645504.png)
 
 
-## User experience (UX)
+## User Experience (UX)
 
 ### First Time Visitor Goals
 
@@ -83,7 +83,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Deployment
 
-* The project was deployed to GitHub Pages. The steps to deploy are as follows:
+#### The project was deployed to GitHub Pages. The steps to deploy are as follows:
 
 
  1. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
@@ -98,6 +98,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Code
 
 * MDBootstrap, Bootstrap 4.3- Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+* Learning content
 
 ### Content
 
