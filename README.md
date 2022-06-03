@@ -1,10 +1,15 @@
 # MaX Fitness Centre
-This is a marketing website for MaX Fitness Centre. It has been designed to motivate and encourage new visitors to start their fitness journey and buy a membership. 
+
+This is a marketing website for MaX Fitness Centre. It has been designed to motivate and encourage potential members to start their fitness journey and pay for a membership. 
+
+
 
 ![Screenshot 2022-06-02 20 39 05](https://user-images.githubusercontent.com/97630146/171735693-0c0b4c10-a3e4-4ba2-8ac5-1c18a0645504.png)
 
+
 ## User experience (UX)
-### First Time Visitor Goals:
+
+### First Time Visitor Goals
 
 a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the fitness centre offer.
 
@@ -12,14 +17,15 @@ b. As a First Time Visitor, I want to be able to easily navigate throughout all 
 
 c. As a First Time Visitor, I want to see a list of sport activities I can attend and see opening hours.
 
-### Returning Visitor Goals:
+### Returning Visitor Goals
+
 a. As a Returning Visitor, I want to find information about location.
 
 b. As a Returning Visitor, I want to find social media links.
 
 c. As a Returning Visitor, I want to find pictures of equipment.
 
-### Frequent User Goals:
+### Frequent User Goals
 
 a. As a Frequent User, I want to check to see if there are any newly added classes and memberships.
 
@@ -34,15 +40,20 @@ c. As a Frequent User, I want to create an account where I can manage my memeber
 * [Wireframes](https://balsamiq.cloud/smp843y/pvadl4s)
 
 
- ### Style
+ ### Frameworks, Libraries & Programs Used
+ 
 * MDBootstrap
 * Bootstrap 4.3
-* Learning material
+* Google Fonts
+* Git
+* GitHub
+* Balsamiq
 
+### Languages Used
 
-### Media
-* The photos used on the home, gallery and sign up page are from https://stock.adobe.com/ and Google image search.
-* Text used in 'About Us' copied from [Pure Gym](https://www.puregym.com/about-us/)
+* HTML5
+* CSS3
+
 
 ## Testing
 
@@ -53,7 +64,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
  ![Screenshot 2022-06-02 20 54 14](https://user-images.githubusercontent.com/97630146/171753170-366c617d-52f0-43c0-bd4d-5698df6fd44d.png)
 
 
-* [HTMLValidator results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmagz-dev.github.io%2Fmaxfitness-project%2F)
+* [HTML Validator results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmagz-dev.github.io%2Fmaxfitness-project%2F)
 
 ### Further Testing
 
@@ -71,11 +82,30 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 ## Deployment
-* The site was deployed to GitHub Pages. The steps to deploy are as follows:
- 1. In the GitHub repository, navigate to the Settings tab.
+
+* The project was deployed to GitHub Pages. The steps to deploy are as follows:
+
+
+ 1. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
  2. From the GitHub Pages section drop-down menu, select the Main Branch.
  3. Once the Main Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-* [The live link can be found here](https://magz-dev.github.io/maxfitness-project/)
+
+
+* The live link can be found here- https://magz-dev.github.io/maxfitness-project/
+
+## Credits
+
+### Code
+
+* MDBootstrap, Bootstrap 4.3- Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+### Content
+
+* Text used in "About Us" has been copied from [Pure Gym](https://www.puregym.com/about-us/)
+
+### Media
+
+* The photos used on the home, gallery and sign up page are from https://stock.adobe.com/ and Google image search.
 
 
 
