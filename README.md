@@ -1,6 +1,8 @@
-# MaX Fitness
-
-This is a marketing website for MaX Fitness centre. It has been designed to motivate and encourage potential members to start their fitness journey and pay for a membership. 
+   # MaX Fitness
+                                                                   
+   [View the life project here.](https://magz-dev.github.io/maxfitness-project/)
+   
+This is a marketing website for MaX Fitness centre. It has been designed to motivate and encourage potential members to start their fitness journey and purchase a membership.
 
 
 
@@ -91,7 +93,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
  3. Once the Main Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 
-* The live link can be found here- https://magz-dev.github.io/maxfitness-project/
+* The live link can be found here- https://magz-dev.github.io/maxfitness-project/.
 
 ## Credits
 
@@ -102,7 +104,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Content
 
-* Text used in "About Us" has been copied from [Pure Gym](https://www.puregym.com/about-us/)
+* Text used in "About Us" has been copied from [Pure Gym](https://www.puregym.com/about-us/).
 
 ### Media
 
