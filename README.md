@@ -11,7 +11,9 @@ This is a marketing website for MaX Fitness centre. It has been designed to moti
 
 ## User Experience (UX)
 
-### First Time Visitor Goals
+### User Stories
+
+#### First Time Visitor Goals
 
 a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the fitness centre offer.
 
@@ -39,7 +41,7 @@ c. As a Frequent User, I want to create an account where I can manage my memeber
 
 * Resposive on all devices
 
-* [Wireframes](https://balsamiq.cloud/smp843y/pvadl4s)
+* [Wireframes](https://balsamiq.cloud/smp843y/pvadl4s/rE849)
 
 
  ### Frameworks, Libraries & Programs Used
@@ -70,7 +72,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
-* Developer Tools- Lighthouse report:
+* Developer Tools - Lighthouse report:
 
 
 ![Screenshot 2022-06-03 00 09 48](https://user-images.githubusercontent.com/97630146/171752684-6cec55ff-0dba-4f43-86e1-2fb8b8857ecc.png)
@@ -99,7 +101,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Code
 
-* MDBootstrap, Bootstrap 4.3- Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+* MDBootstrap, Bootstrap 4.3 - Bootstrap Library used throughout the project to add style and make site responsive using the Bootstrap Grid System.
 * Learning content
 
 ### Content
@@ -108,7 +110,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Media
 
-* The photos used on the home, gallery and sign up page are from https://stock.adobe.com/ and Google image search.
+* The photos used on the home, gallery, and sign up page are from https://stock.adobe.com/ and Google image search.
 
 
 
