@@ -1,6 +1,6 @@
    # MaX Fitness
                                                                    
-   [View the live project here](https://magz-dev.github.io/max-fitness/)
+   [View the live project here](https://magz-dev.github.io/maxfitness-project/)
    
 This is a marketing website for MaX Fitness centre. It has been designed to motivate and encourage potential members to start their fitness journey and purchase a membership.
 
